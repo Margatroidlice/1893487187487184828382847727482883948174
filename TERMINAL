@@ -1,0 +1,3 @@
+## TERMINAL ##
+su
+apt install xfce4 xfce4-whiskermenu-plugin xarchiver thunar-archive-plugin libreoffice
